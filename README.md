@@ -1,0 +1,1 @@
+#Programa usado para aprender el uso del printf en C, solo es una prueba
